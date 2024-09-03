@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="variabel">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/VarvsVal.kt" afterDir="false" />
+    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="VarvsVal">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tipedata.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.VarvsValKt">
+  <component name="RunManager" selected="Kotlin.TipedataKt">
     <configuration name="BlokdankomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokdankomentarKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -47,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralKt" />
+    <configuration name="TipedataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipedataKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TipedataKt" />
         <item itemvalue="Kotlin.VarvsValKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.BlokdankomentarKt" />
         <item itemvalue="Kotlin.WhitespaceKt" />
-        <item itemvalue="Kotlin.LiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725341220758</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="VarvsVal">
+      <created>1725341630696</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725341630696</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +167,7 @@
     <MESSAGE value="whitespace" />
     <MESSAGE value="blokdankomentar" />
     <MESSAGE value="variabel" />
-    <option name="LAST_COMMIT_MESSAGE" value="variabel" />
+    <MESSAGE value="VarvsVal" />
+    <option name="LAST_COMMIT_MESSAGE" value="VarvsVal" />
   </component>
 </project>
