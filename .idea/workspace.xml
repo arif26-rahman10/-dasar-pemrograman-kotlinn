@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="constantsliteral">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/underscoreliterasi.kt" afterDir="false" />
+    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="underscoreliteral">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/representasi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.UnderscoreliteralKt">
+  <component name="RunManager" selected="Kotlin.RepresentasiKt">
     <configuration name="ConstantsliteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConstantsliteralKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -49,6 +49,13 @@
     </configuration>
     <configuration name="FloatingpointKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FloatingpointKt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,20 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarvsValKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarvsValKt" />
-      <module name="DasarPemrogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RepresentasiKt" />
         <item itemvalue="Kotlin.UnderscoreliteralKt" />
         <item itemvalue="Kotlin.ConstantsliteralKt" />
         <item itemvalue="Kotlin.FloatingpointKt" />
         <item itemvalue="Kotlin.TipedataKt" />
-        <item itemvalue="Kotlin.VarvsValKt" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725345413177</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="underscoreliteral">
+      <created>1725345925648</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725345925648</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,6 +198,7 @@
     <MESSAGE value="tipedata" />
     <MESSAGE value="floatingpoint" />
     <MESSAGE value="constantsliteral" />
-    <option name="LAST_COMMIT_MESSAGE" value="constantsliteral" />
+    <MESSAGE value="underscoreliteral" />
+    <option name="LAST_COMMIT_MESSAGE" value="underscoreliteral" />
   </component>
 </project>
