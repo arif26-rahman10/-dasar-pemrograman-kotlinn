@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="string">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/caesarchiper.kt" afterDir="false" />
+    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="caesarchiper">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sandimorse.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.CaesarchiperKt">
+  <component name="RunManager" selected="Kotlin.SandimorseKt">
     <configuration name="CaesarchiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaesarchiperKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -54,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenghapusspasirawstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MenghapusspasirawstringKt" />
+    <configuration name="PenerapanstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PenerapanstringKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PenerapanstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PenerapanstringKt" />
+    <configuration name="SandimorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SandimorseKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SandimorseKt" />
         <item itemvalue="Kotlin.CaesarchiperKt" />
         <item itemvalue="Kotlin.PenerapanstringKt" />
         <item itemvalue="Kotlin.FungsianggotastringKt" />
         <item itemvalue="Kotlin.StringtemplatesKt" />
-        <item itemvalue="Kotlin.MenghapusspasirawstringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725349401616</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="caesarchiper">
+      <created>1725349872850</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725349872850</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,6 +254,7 @@
     <MESSAGE value="konversiekplisitchar" />
     <MESSAGE value="boolean" />
     <MESSAGE value="string" />
-    <option name="LAST_COMMIT_MESSAGE" value="string" />
+    <MESSAGE value="caesarchiper" />
+    <option name="LAST_COMMIT_MESSAGE" value="caesarchiper" />
   </component>
 </project>
