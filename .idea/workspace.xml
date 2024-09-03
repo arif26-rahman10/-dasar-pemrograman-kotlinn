@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="boolean">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsianggotastring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/menghapusspasirawstring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penerapanstring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rawstring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringoperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringtemplates.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="string">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/caesarchiper.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +39,14 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.PenerapanstringKt">
+  <component name="RunManager" selected="Kotlin.CaesarchiperKt">
+    <configuration name="CaesarchiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaesarchiperKt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FungsianggotastringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FungsianggotastringKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -68,13 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RawstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RawstringKt" />
-      <module name="DasarPemrogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringtemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringtemplatesKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -84,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CaesarchiperKt" />
         <item itemvalue="Kotlin.PenerapanstringKt" />
         <item itemvalue="Kotlin.FungsianggotastringKt" />
         <item itemvalue="Kotlin.StringtemplatesKt" />
         <item itemvalue="Kotlin.MenghapusspasirawstringKt" />
-        <item itemvalue="Kotlin.RawstringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725347756397</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="string">
+      <created>1725349401616</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725349401616</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -246,6 +246,7 @@
     <MESSAGE value="character" />
     <MESSAGE value="konversiekplisitchar" />
     <MESSAGE value="boolean" />
-    <option name="LAST_COMMIT_MESSAGE" value="boolean" />
+    <MESSAGE value="string" />
+    <option name="LAST_COMMIT_MESSAGE" value="string" />
   </component>
 </project>
