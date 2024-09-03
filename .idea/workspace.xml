@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="floatingpoint">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/constantsliteral.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="constantsliteral">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/underscoreliterasi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ConstantsliteralKt">
+  <component name="RunManager" selected="Kotlin.UnderscoreliteralKt">
     <configuration name="ConstantsliteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConstantsliteralKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -62,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
+    <configuration name="UnderscoreliteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnderscoreliteralKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.UnderscoreliteralKt" />
         <item itemvalue="Kotlin.ConstantsliteralKt" />
         <item itemvalue="Kotlin.FloatingpointKt" />
         <item itemvalue="Kotlin.TipedataKt" />
         <item itemvalue="Kotlin.VarvsValKt" />
-        <item itemvalue="Kotlin.VariabelKt" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725344968189</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="constantsliteral">
+      <created>1725345413177</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725345413177</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,6 +190,7 @@
     <MESSAGE value="VarvsVal" />
     <MESSAGE value="tipedata" />
     <MESSAGE value="floatingpoint" />
-    <option name="LAST_COMMIT_MESSAGE" value="floatingpoint" />
+    <MESSAGE value="constantsliteral" />
+    <option name="LAST_COMMIT_MESSAGE" value="constantsliteral" />
   </component>
 </project>
