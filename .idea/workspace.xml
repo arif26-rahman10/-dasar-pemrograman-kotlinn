@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="character">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/konversiekplisitchar.kt" afterDir="false" />
+    <list default="true" id="ae2fbebd-ecf3-4d4d-96bf-d2c2af6fed09" name="Changes" comment="boolean">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsianggotastring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/menghapusspasirawstring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penerapanstring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rawstring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringoperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringtemplates.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,37 +46,37 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.BooleanKt">
-    <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleanKt" />
+  <component name="RunManager" selected="Kotlin.PenerapanstringKt">
+    <configuration name="FungsianggotastringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsianggotastringKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CharacterKt" />
+    <configuration name="MenghapusspasirawstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MenghapusspasirawstringKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EksplisitKt" />
+    <configuration name="PenerapanstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PenerapanstringKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KonversiekplisitcharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KonversiekplisitcharKt" />
+    <configuration name="RawstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RawstringKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
+    <configuration name="StringtemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringtemplatesKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.BooleanKt" />
-        <item itemvalue="Kotlin.KonversiekplisitcharKt" />
-        <item itemvalue="Kotlin.CharacterKt" />
-        <item itemvalue="Kotlin.EksplisitKt" />
-        <item itemvalue="Kotlin.RepresentasiKt" />
+        <item itemvalue="Kotlin.PenerapanstringKt" />
+        <item itemvalue="Kotlin.FungsianggotastringKt" />
+        <item itemvalue="Kotlin.StringtemplatesKt" />
+        <item itemvalue="Kotlin.MenghapusspasirawstringKt" />
+        <item itemvalue="Kotlin.RawstringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725347044281</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="konversiekplisitchar">
+      <created>1725347430735</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347430735</updated>
+    </task>
+    <task id="LOCAL-00018" summary="boolean">
+      <created>1725347756397</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347756397</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,6 +244,8 @@
     <MESSAGE value="representasi" />
     <MESSAGE value="eksplisit" />
     <MESSAGE value="character" />
-    <option name="LAST_COMMIT_MESSAGE" value="character" />
+    <MESSAGE value="konversiekplisitchar" />
+    <MESSAGE value="boolean" />
+    <option name="LAST_COMMIT_MESSAGE" value="boolean" />
   </component>
 </project>
